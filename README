@@ -1,0 +1,2 @@
+C++ contains the C++ code and the executable file as SFML or OpenGL will not be included
+Python contains only the Python code because they can be translated by any software without the need for libraries (unless specified)
